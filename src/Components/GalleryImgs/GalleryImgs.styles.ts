@@ -11,7 +11,7 @@ export const GalleryWrap = styled.div`
   @media (max-width: 500px) {
     /* flex-wrap: nowrap; */
     /* flex-direction: column; */
-    gap: 12px;
+    gap: 6px;
     width: 100%;
   }
 `;
@@ -34,7 +34,7 @@ export const SingleImg = styled.div`
     filter: none;
   }
   @media (max-width: 500px) {
-    width: 40%;
+    width: 45%;
     & > img {
       border: none;
       border-radius: 2px;

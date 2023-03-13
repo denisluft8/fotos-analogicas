@@ -1,3 +1,4 @@
+import { Footer } from "./Components/Footer/Footer";
 import { GalleryPage, Home } from "./Pages";
 import { GlobalStyle } from "./Styles/globalStyles";
 
@@ -7,6 +8,7 @@ function App() {
       <GlobalStyle />
       <Home />
       <GalleryPage />
+      <Footer />
     </>
   );
 }

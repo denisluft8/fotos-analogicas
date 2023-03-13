@@ -17,6 +17,8 @@ import g16 from "./g16.png";
 import g17 from "./g17.png";
 import g18 from "./g18.png";
 import profile1 from "./profile1.png";
+import camera1 from "./camera1.svg";
+import insta from "./instagram.svg";
 
 export {
   g1,
@@ -38,4 +40,6 @@ export {
   g17,
   g18,
   profile1,
+  camera1,
+  insta,
 };
