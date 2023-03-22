@@ -10,7 +10,7 @@ export const Footer = () => {
       <h4>Anderson Lins © Todos os Direitos Reservados</h4>
       <p>
         made with love by{" "}
-        <a href="https://denisluft8.github.io/portfolio-denisluft/">
+        <a target="_blank" href="https://denisluft8.github.io/portfolio-denisluft/">
           Dênis Luft
         </a>
       </p>

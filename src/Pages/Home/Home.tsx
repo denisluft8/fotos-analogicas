@@ -9,21 +9,19 @@ export const Home = () => {
       </h1>
       <AboutContainer>
         <img src={profile1} />
-        <h2>Fotos Analógicas</h2>
+        <h2>Anderson Lins</h2>
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla semper
-          risus diam, sit amet lobortis augue sagittis vitae. Integer maximus
-          lacus lorem. Duis dui magna, gravida quis dictum vel, congue vel
-          metus. Nam sodales quis ligula vitae porttitor. Phasellus tempor nibh
-          gravida ipsum placerat, nec aliquet enim elementum. Aliquam feugiat
-          elementum accumsan. Etiam interdum non augue ut blandit. Morbi
-          sagittis, purus a tincidunt feugiat, elit tortor commodo diam, at
-          aliquam magna odio dignissim magna. Mauris ac diam id sapien
-          consectetur fermentum id et tellus. Donec nec porta leo, nec porttitor
-          est. Mauris mauris orci, volutpat a turpis sit amet, faucibus
-          hendrerit quam. Aliquam ut convallis leo, quis efficitur magna.
-          Aliquam malesuada venenatis orci, nec sollicitudin ipsum porttitor
-          vel.
+          Eu sou o Anderson, um fotógrafo amador que descobriu sua paixão pela
+          fotografia ao experimentar a minha câmera Olympus Trip 35. Gosto de
+          capturar a beleza natural do mar, a arquitetura das cidades e os
+          detalhes únicos da antiguidade em minhas fotografias. Com a minha
+          câmera, consigo registrar imagens vibrantes e cheias de personalidade.
+          Uso minha habilidade em observar o mundo ao meu redor para capturar
+          momentos que contam uma história e transmitem emoção. Seja durante uma
+          viagem à praia ou explorando uma cidade antiga, sempre levo minha
+          câmera comigo para registrar momentos únicos e inesquecíveis. Minhas
+          fotos inspiram as pessoas a apreciarem as pequenas coisas da vida e a
+          verem a beleza em tudo ao seu redor.
         </p>
       </AboutContainer>
     </HomeContainer>

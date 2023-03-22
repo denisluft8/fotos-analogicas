@@ -26,6 +26,7 @@ export const AboutContainer = styled.div`
     -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
     filter: grayscale(100%);
 
+
     @media (max-width: 375px) {
       height: 160px;
     }
